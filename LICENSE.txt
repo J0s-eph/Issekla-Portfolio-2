@@ -1,0 +1,54 @@
+Creative Commons Attribution 3.0 Unported License
+http://creativecommons.org/licenses/by/3.0/
+
+License
+
+The work (as defined below) is provided under the terms of this Creative Commons Public License ("CCPL" or "License"). The work is protected by copyright and/or other applicable law. Any use of the work other than as authorized under this License or copyright law is prohibited.
+
+By exercising any rights to the work provided here, you accept and agree to be bound by the terms of this License. To the extent this License may be considered to be a contract, the Licensor grants you the rights contained herein in consideration of your acceptance of such terms and conditions.
+
+1. Definitions
+Adaptation: A work based on the original work, or based on the work and other pre-existing works, such as a translation, adaptation, derivative work, arrangement of music, or other alterations. It also includes cinematographic adaptations or other forms where the work is transformed, recast, or adapted in a way that is recognizably derived from the original, except that a work that constitutes a Collection will not be considered an Adaptation for the purposes of this License. For clarity, if the work is musical, the synchronization of the work with a moving image ("synching") will be considered an Adaptation.
+
+Collection: A collection of literary, artistic works, performances, phonograms, or broadcasts, which, by reason of the selection and arrangement of their contents, constitute intellectual creations. A work that constitutes a Collection will not be considered an Adaptation (as defined above).
+
+Distribute: To make available to the public the original and copies of the work or adaptation, as appropriate, through sale or other transfer of ownership.
+
+Licensor: The individual(s), entity/entities offering the work under the terms of this License.
+
+Original Author: The individual(s) or entity/entities that created the work, or if no identifiable author exists, the publisher. In the case of a performance, this includes actors, singers, musicians, dancers, and others involved in interpreting the work.
+
+Work: The literary and/or artistic work offered under the terms of this License, including various types of expressions such as books, music, films, sculptures, photographs, performances, broadcasts, phonograms, and others.
+
+You: An individual or entity exercising rights under this License who has not violated its terms previously or has received express permission from the Licensor to exercise rights despite a violation.
+
+Publicly Perform: To perform public recitations of the work and to communicate those recitations to the public by any means, including public digital performances and broadcasts.
+
+Reproduce: To make copies of the work by any means, including sound or visual recordings.
+
+2. Fair Dealing Rights
+Nothing in this License is intended to reduce, limit, or restrict any uses free from copyright or rights arising from limitations or exceptions provided under copyright law or other applicable laws.
+
+3. License Grant
+Subject to the terms and conditions of this License, the Licensor grants you a worldwide, royalty-free, non-exclusive, perpetual license to:
+
+Reproduce the work, incorporate it into one or more Collections, and reproduce the work as part of those Collections.
+Create and reproduce adaptations, provided that any adaptation is clearly marked as modified from the original work.
+Distribute and publicly perform the work, including as part of a Collection.
+Distribute and publicly perform adaptations.
+4. Restrictions
+You may distribute or publicly perform the work only under the terms of this License. You must include a copy of or a link to this License with every copy of the work you distribute or publicly perform. You may not offer terms that restrict the rights granted under this License, and you may not sublicense the work.
+You must keep intact all notices that refer to this License, and you may not impose any technological measures that restrict others' ability to exercise the rights granted under this License.
+If you create an adaptation, upon request from any Licensor, you must remove certain credits from the adaptation as requested.
+5. Representations, Warranties, and Disclaimer
+The Licensor offers the work "as-is" and makes no warranties regarding the work, including its merchantability, fitness for a particular purpose, or the presence of errors. In some jurisdictions, exclusions of implied warranties may not apply.
+
+6. Limitation on Liability
+Except as required by applicable law, the Licensor will not be liable for any special, incidental, or consequential damages arising from this License or use of the work, even if advised of the possibility of such damages.
+
+7. Termination
+This License will terminate automatically if you breach any of its terms. However, users who have received adaptations or collections from you and remain compliant with the terms may continue to use the work.
+The License is perpetual for the duration of the applicable copyright, unless terminated for breach as stated above. The Licensor can release the work under different terms or cease distributing the work at any time.
+8. Miscellaneous
+Each time you distribute or publicly perform the work or a collection, the Licensor grants the recipient a license to the work on the same terms as those granted to you.
+If you distribute or publicly perform an adaptation, the Licensor offers the recipient a license to the original work under the same terms as granted to you.
